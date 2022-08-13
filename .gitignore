@@ -1,4 +1,4 @@
 db.sqlite3
-posts/__pycache__/
-posts/migrations/
+blog/__pycache__/
+blog/migrations/
 django_blog/__pycache__/
